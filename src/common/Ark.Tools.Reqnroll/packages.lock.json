@@ -27,9 +27,9 @@
       },
       "Meziantou.Analyzer": {
         "type": "Direct",
-        "requested": "[3.0.15, )",
-        "resolved": "3.0.15",
-        "contentHash": "i0oG9c/EJ0RvIRxd8RPd/KNDlpunArWDnxeo7EKPAI7/Xz7rMNRzY898ksQUHDPtO1xzbVqsCmWwW+wmhqPx3w=="
+        "requested": "[3.0.17, )",
+        "resolved": "3.0.17",
+        "contentHash": "Vwq8hT7PzubtzUg7Eu2GQoY9rTy41jUyI8a504/Tl5VJXjZ3BL3UERHlk5jN7Crll8b6Kj7Mw7WXZplfeBRqnA=="
       },
       "Microsoft.CodeAnalysis.BannedApiAnalyzers": {
         "type": "Direct",
@@ -82,9 +82,9 @@
       },
       "Polyfill": {
         "type": "Direct",
-        "requested": "[9.11.0, )",
-        "resolved": "9.11.0",
-        "contentHash": "14DVSS9k7U9XleWrNtTCQJePg4M3l1EtabVkYocAOUDGVFyOYV9pkYEofpLJyxdC4efhJY6bUo9lRd9n84JIBw=="
+        "requested": "[9.12.0, )",
+        "resolved": "9.12.0",
+        "contentHash": "a2529lO/U2c9GraQsPtt/2xFqWfPv+1wtqpIsFUNVEFUdv3yJbtp8lDSVgVoA5wfbIvynWmV+uY4FHAmOe2apA=="
       },
       "Reqnroll": {
         "type": "Direct",
@@ -433,9 +433,9 @@
       },
       "Meziantou.Analyzer": {
         "type": "Direct",
-        "requested": "[3.0.15, )",
-        "resolved": "3.0.15",
-        "contentHash": "i0oG9c/EJ0RvIRxd8RPd/KNDlpunArWDnxeo7EKPAI7/Xz7rMNRzY898ksQUHDPtO1xzbVqsCmWwW+wmhqPx3w=="
+        "requested": "[3.0.17, )",
+        "resolved": "3.0.17",
+        "contentHash": "Vwq8hT7PzubtzUg7Eu2GQoY9rTy41jUyI8a504/Tl5VJXjZ3BL3UERHlk5jN7Crll8b6Kj7Mw7WXZplfeBRqnA=="
       },
       "Microsoft.CodeAnalysis.BannedApiAnalyzers": {
         "type": "Direct",
@@ -488,9 +488,9 @@
       },
       "Polyfill": {
         "type": "Direct",
-        "requested": "[9.11.0, )",
-        "resolved": "9.11.0",
-        "contentHash": "14DVSS9k7U9XleWrNtTCQJePg4M3l1EtabVkYocAOUDGVFyOYV9pkYEofpLJyxdC4efhJY6bUo9lRd9n84JIBw=="
+        "requested": "[9.12.0, )",
+        "resolved": "9.12.0",
+        "contentHash": "a2529lO/U2c9GraQsPtt/2xFqWfPv+1wtqpIsFUNVEFUdv3yJbtp8lDSVgVoA5wfbIvynWmV+uY4FHAmOe2apA=="
       },
       "Reqnroll": {
         "type": "Direct",
