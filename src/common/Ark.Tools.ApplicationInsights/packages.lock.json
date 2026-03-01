@@ -112,9 +112,9 @@
       },
       "Polyfill": {
         "type": "Direct",
-        "requested": "[9.12.0, )",
-        "resolved": "9.12.0",
-        "contentHash": "a2529lO/U2c9GraQsPtt/2xFqWfPv+1wtqpIsFUNVEFUdv3yJbtp8lDSVgVoA5wfbIvynWmV+uY4FHAmOe2apA=="
+        "requested": "[9.13.0, )",
+        "resolved": "9.13.0",
+        "contentHash": "h84pHJ6cB97XCEKjBX3FbtzVq+5gGb1yMPEsDX3GQ+bHMz73MiOhc61p04N+WEV8joXf4tzJ80z2pqRQHQ8lsA=="
       },
       "Azure.Core": {
         "type": "Transitive",
@@ -475,9 +475,9 @@
       },
       "Polyfill": {
         "type": "Direct",
-        "requested": "[9.12.0, )",
-        "resolved": "9.12.0",
-        "contentHash": "a2529lO/U2c9GraQsPtt/2xFqWfPv+1wtqpIsFUNVEFUdv3yJbtp8lDSVgVoA5wfbIvynWmV+uY4FHAmOe2apA=="
+        "requested": "[9.13.0, )",
+        "resolved": "9.13.0",
+        "contentHash": "h84pHJ6cB97XCEKjBX3FbtzVq+5gGb1yMPEsDX3GQ+bHMz73MiOhc61p04N+WEV8joXf4tzJ80z2pqRQHQ8lsA=="
       },
       "Azure.Core": {
         "type": "Transitive",
